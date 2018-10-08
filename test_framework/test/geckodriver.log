@@ -1,0 +1,152 @@
+1538991243627	mozrunner::runner	INFO	Running command: "h:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\000807\\AppData\\Local\\Temp\\rust_mozprofile.cXXDLI86AR1R"
+1538991246199	Marionette	INFO	Listening on port 63732
+1538991246371	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538991246400	Marionette	DEBUG	[6442450945] Frame script loaded
+1538991246404	Marionette	DEBUG	[6442450945] Frame script registered
+1538991246431	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1538991246879	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1538991247231	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.baidu.com/
+1538991247283	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.baidu.com/
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=s&json=1&p=3&sid=1425_21116_27245_20927&req=2&csor=1&cb=jQuery1102040095047992098154_1538991247148&_=1538991247149, line 1: TypeError: jQuery1102040095047992098154_1538991247148 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=sele&json=1&p=3&sid=1425_21116_27245_20927&req=2&csor=4&pwd=sel&cb=jQuery1102040095047992098154_1538991247148&_=1538991247152, line 1: TypeError: jQuery1102040095047992098154_1538991247148 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=se&json=1&p=3&sid=1425_21116_27245_20927&req=2&csor=2&pwd=s&cb=jQuery1102040095047992098154_1538991247148&_=1538991247150, line 1: TypeError: jQuery1102040095047992098154_1538991247148 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=seleni&json=1&p=3&sid=1425_21116_27245_20927&req=2&csor=6&pwd=selen&cb=jQuery1102040095047992098154_1538991247148&_=1538991247154, line 1: TypeError: jQuery1102040095047992098154_1538991247148 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=sel&json=1&p=3&sid=1425_21116_27245_20927&req=2&csor=3&pwd=se&cb=jQuery1102040095047992098154_1538991247148&_=1538991247151, line 1: TypeError: jQuery1102040095047992098154_1538991247148 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selen&json=1&p=3&sid=1425_21116_27245_20927&req=2&csor=5&pwd=sele&cb=jQuery1102040095047992098154_1538991247148&_=1538991247153, line 1: TypeError: jQuery1102040095047992098154_1538991247148 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selenium&json=1&p=3&sid=1425_21116_27245_20927&req=2&csor=8&pwd=seleniu&cb=jQuery1102040095047992098154_1538991247148&_=1538991247156, line 1: TypeError: jQuery1102040095047992098154_1538991247148 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=seleniu&json=1&p=3&sid=1425_21116_27245_20927&req=2&csor=7&pwd=seleni&cb=jQuery1102040095047992098154_1538991247148&_=1538991247155, line 1: TypeError: jQuery1102040095047992098154_1538991247148 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selenium%20%E7%81%B0&json=1&p=3&sid=1425_21116_27245_20927&req=2&csor=10&pwd=selenium%20&cb=jQuery1102040095047992098154_1538991247148&_=1538991247158, line 1: TypeError: jQuery1102040095047992098154_1538991247148 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selenium%20%E7%81%B0%E8%93%9D&json=1&p=3&sid=1425_21116_27245_20927&req=2&csor=11&pwd=selenium%20%E7%81%B0&cb=jQuery1102040095047992098154_1538991247148&_=1538991247159, line 1: TypeError: jQuery1102040095047992098154_1538991247148 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selenium%20&json=1&p=3&sid=1425_21116_27245_20927&req=2&csor=9&pwd=selenium&cb=jQuery1102040095047992098154_1538991247148&_=1538991247157, line 1: TypeError: jQuery1102040095047992098154_1538991247148 is not a function
+1538991247675	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+[Parent 4288, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 4288, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6352, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8508, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 4288, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1538991252884	Marionette	INFO	Stopped listening on port 63732
+1538991261933	mozrunner::runner	INFO	Running command: "h:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\000807\\AppData\\Local\\Temp\\rust_mozprofile.xpYCfd2xm23a"
+1538991264320	Marionette	INFO	Listening on port 63792
+1538991264654	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538991264684	Marionette	DEBUG	[6442450945] Frame script loaded
+1538991264686	Marionette	DEBUG	[6442450945] Frame script registered
+1538991264706	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1538991265195	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1538991265519	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.baidu.com/
+1538991265707	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.baidu.com/
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=seleniu&json=1&p=3&sid=1460_21097_26350&req=2&csor=7&pwd=seleni&cb=jQuery1102021994323965522278_1538991265442&_=1538991265450, line 1: TypeError: jQuery1102021994323965522278_1538991265442 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=se&json=1&p=3&sid=1460_21097_26350&req=2&csor=2&pwd=s&cb=jQuery1102021994323965522278_1538991265442&_=1538991265445, line 1: TypeError: jQuery1102021994323965522278_1538991265442 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=sele&json=1&p=3&sid=1460_21097_26350&req=2&csor=4&pwd=sel&cb=jQuery1102021994323965522278_1538991265442&_=1538991265447, line 1: TypeError: jQuery1102021994323965522278_1538991265442 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=sel&json=1&p=3&sid=1460_21097_26350&req=2&csor=3&pwd=se&cb=jQuery1102021994323965522278_1538991265442&_=1538991265446, line 1: TypeError: jQuery1102021994323965522278_1538991265442 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selenium&json=1&p=3&sid=1460_21097_26350&req=2&csor=8&pwd=seleniu&cb=jQuery1102021994323965522278_1538991265442&_=1538991265451, line 1: TypeError: jQuery1102021994323965522278_1538991265442 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selen&json=1&p=3&sid=1460_21097_26350&req=2&csor=5&pwd=sele&cb=jQuery1102021994323965522278_1538991265442&_=1538991265448, line 1: TypeError: jQuery1102021994323965522278_1538991265442 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=seleni&json=1&p=3&sid=1460_21097_26350&req=2&csor=6&pwd=selen&cb=jQuery1102021994323965522278_1538991265442&_=1538991265449, line 1: TypeError: jQuery1102021994323965522278_1538991265442 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selenium%20&json=1&p=3&sid=1460_21097_26350&req=2&csor=9&pwd=selenium&cb=jQuery1102021994323965522278_1538991265442&_=1538991265452, line 1: TypeError: jQuery1102021994323965522278_1538991265442 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selenium%20%E7%81%B0&json=1&p=3&sid=1460_21097_26350&req=2&csor=10&pwd=selenium%20&cb=jQuery1102021994323965522278_1538991265442&_=1538991265453, line 1: TypeError: jQuery1102021994323965522278_1538991265442 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selenium%20%E7%81%B0%E8%93%9D&json=1&p=3&sid=1460_21097_26350&req=2&csor=11&pwd=selenium%20%E7%81%B0&cb=jQuery1102021994323965522278_1538991265442&_=1538991265454, line 1: TypeError: jQuery1102021994323965522278_1538991265442 is not a function
+1538991266109	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1538991268271	Marionette	INFO	Stopped listening on port 63792
+[Parent 5768, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8828, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 5768, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3268, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 5768, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8024, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8024, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1538993816409	mozrunner::runner	INFO	Running command: "h:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\000807\\AppData\\Local\\Temp\\rust_mozprofile.1OIiOCnQmkzQ"
+[GFX1-]: ClientLayerManager::BeginTransaction with IPC channel down. GPU process may have died.
+1538993818713	Marionette	INFO	Listening on port 64173
+1538993819155	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538993819185	Marionette	DEBUG	[6442450945] Frame script loaded
+1538993819186	Marionette	DEBUG	[6442450945] Frame script registered
+1538993819203	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1538993819658	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1538993820022	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.baidu.com/
+1538993820080	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.baidu.com/
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=s&json=1&p=3&sid=1463_21123_26350_20930&req=2&csor=1&cb=jQuery1102012876513947151824_1538993819942&_=1538993819943, line 1: TypeError: jQuery1102012876513947151824_1538993819942 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=se&json=1&p=3&sid=1463_21123_26350_20930&req=2&csor=2&pwd=s&cb=jQuery1102012876513947151824_1538993819942&_=1538993819944, line 1: TypeError: jQuery1102012876513947151824_1538993819942 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selen&json=1&p=3&sid=1463_21123_26350_20930&req=2&csor=5&pwd=sele&cb=jQuery1102012876513947151824_1538993819942&_=1538993819947, line 1: TypeError: jQuery1102012876513947151824_1538993819942 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=seleni&json=1&p=3&sid=1463_21123_26350_20930&req=2&csor=6&pwd=selen&cb=jQuery1102012876513947151824_1538993819942&_=1538993819948, line 1: TypeError: jQuery1102012876513947151824_1538993819942 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=sele&json=1&p=3&sid=1463_21123_26350_20930&req=2&csor=4&pwd=sel&cb=jQuery1102012876513947151824_1538993819942&_=1538993819946, line 1: TypeError: jQuery1102012876513947151824_1538993819942 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=seleniu&json=1&p=3&sid=1463_21123_26350_20930&req=2&csor=7&pwd=seleni&cb=jQuery1102012876513947151824_1538993819942&_=1538993819949, line 1: TypeError: jQuery1102012876513947151824_1538993819942 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=sel&json=1&p=3&sid=1463_21123_26350_20930&req=2&csor=3&pwd=se&cb=jQuery1102012876513947151824_1538993819942&_=1538993819945, line 1: TypeError: jQuery1102012876513947151824_1538993819942 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selenium&json=1&p=3&sid=1463_21123_26350_20930&req=2&csor=8&pwd=seleniu&cb=jQuery1102012876513947151824_1538993819942&_=1538993819950, line 1: TypeError: jQuery1102012876513947151824_1538993819942 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selenium%20%E7%81%B0&json=1&p=3&sid=1463_21123_26350_20930&req=2&csor=10&pwd=selenium%20&cb=jQuery1102012876513947151824_1538993819942&_=1538993819952, line 1: TypeError: jQuery1102012876513947151824_1538993819942 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selenium%20&json=1&p=3&sid=1463_21123_26350_20930&req=2&csor=9&pwd=selenium&cb=jQuery1102012876513947151824_1538993819942&_=1538993819951, line 1: TypeError: jQuery1102012876513947151824_1538993819942 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selenium%20%E7%81%B0%E8%93%9D&json=1&p=3&sid=1463_21123_26350_20930&req=2&csor=11&pwd=selenium%20%E7%81%B0&cb=jQuery1102012876513947151824_1538993819942&_=1538993819953, line 1: TypeError: jQuery1102012876513947151824_1538993819942 is not a function
+1538993820475	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1538993822588	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=selenium%20%E7%81%B0%E8%93%9D&rsv_pq=9d4ca0100000e805&rsv_t=05b2deI838UeICCWNpwJ5C8mSaepEzslO5gNzt%2BZLZjQa8wFD5p7cgTPl%2BI&rqlang=cn&rsv_enter=0&rsv_sug3=11&inputT=167&rsv_sug4=167
+1538993825155	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=selenium%20%E7%81%B0%E8%93%9D&rsv_pq=9d4ca0100000e805&rsv_t=05b2deI838UeICCWNpwJ5C8mSaepEzslO5gNzt%2BZLZjQa8wFD5p7cgTPl%2BI&rqlang=cn&rsv_enter=0&rsv_sug3=11&inputT=167&rsv_sug4=167
+1538993825156	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=selenium%20%E7%81%B0%E8%93%9D&rsv_pq=9d4ca0100000e805&rsv_t=05b2deI838UeICCWNpwJ5C8mSaepEzslO5gNzt%2BZLZjQa8wFD5p7cgTPl%2BI&rqlang=cn&rsv_enter=0&rsv_sug3=11&inputT=167&rsv_sug4=167
+1538993825730	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.zhihu.com/explore
+1538993828338	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.zhihu.com/explore
+[Parent 752, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 752, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8556, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8420, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 752, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2496, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2496, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1538994081127	Marionette	INFO	Stopped listening on port 64173
+u.com/
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=se&json=1&p=3&sid=1420_21109_26350_20927&req=2&csor=2&pwd=s&cb=jQuery110209414547610012858_1538994046557&_=1538994046559, line 1: TypeError: jQuery110209414547610012858_1538994046557 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=s&json=1&p=3&sid=1420_21109_26350_20927&req=2&csor=1&cb=jQuery110209414547610012858_1538994046557&_=1538994046558, line 1: TypeError: jQuery110209414547610012858_1538994046557 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=sel&json=1&p=3&sid=1420_21109_26350_20927&req=2&csor=3&pwd=se&cb=jQuery110209414547610012858_1538994046557&_=1538994046560, line 1: TypeError: jQuery110209414547610012858_1538994046557 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selen&json=1&p=3&sid=1420_21109_26350_20927&req=2&csor=5&pwd=sele&cb=jQuery110209414547610012858_1538994046557&_=1538994046562, line 1: TypeError: jQuery110209414547610012858_1538994046557 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=sele&json=1&p=3&sid=1420_21109_26350_20927&req=2&csor=4&pwd=sel&cb=jQuery110209414547610012858_1538994046557&_=1538994046561, line 1: TypeError: jQuery110209414547610012858_1538994046557 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=seleni&json=1&p=3&sid=1420_21109_26350_20927&req=2&csor=6&pwd=selen&cb=jQuery110209414547610012858_1538994046557&_=1538994046563, line 1: TypeError: jQuery110209414547610012858_1538994046557 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=seleniu&json=1&p=3&sid=1420_21109_26350_20927&req=2&csor=7&pwd=seleni&cb=jQuery110209414547610012858_1538994046557&_=1538994046564, line 1: TypeError: jQuery110209414547610012858_1538994046557 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selenium&json=1&p=3&sid=1420_21109_26350_20927&req=2&csor=8&pwd=seleniu&cb=jQuery110209414547610012858_1538994046557&_=1538994046565, line 1: TypeError: jQuery110209414547610012858_1538994046557 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selenium%20&json=1&p=3&sid=1420_21109_26350_20927&req=2&csor=9&pwd=selenium&cb=jQuery110209414547610012858_1538994046557&_=1538994046566, line 1: TypeError: jQuery110209414547610012858_1538994046557 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selenium%20%E7%81%B0&json=1&p=3&sid=1420_21109_26350_20927&req=2&csor=10&pwd=selenium%20&cb=jQuery110209414547610012858_1538994046557&_=1538994046567, line 1: TypeError: jQuery110209414547610012858_1538994046557 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selenium%20%E7%81%B0%E8%93%9D&json=1&p=3&sid=1420_21109_26350_20927&req=2&csor=11&pwd=selenium%20%E7%81%B0&cb=jQuery110209414547610012858_1538994046557&_=1538994046568, line 1: TypeError: jQuery110209414547610012858_1538994046557 is not a function
+1538994047079	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1538994050184	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=selenium%20%E7%81%B0%E8%93%9D&rsv_pq=ac9f17f00000f7d8&rsv_t=5da00bbuTR0ADxlWrCeDUp3hmjYBWbMCacaAEq83ShiZU2juPUNiDMcNs8Q&rqlang=cn&rsv_enter=0&rsv_sug3=11&inputT=162&rsv_sug4=163
+1538994050370	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=selenium%20%E7%81%B0%E8%93%9D&rsv_pq=ac9f17f00000f7d8&rsv_t=5da00bbuTR0ADxlWrCeDUp3hmjYBWbMCacaAEq83ShiZU2juPUNiDMcNs8Q&rqlang=cn&rsv_enter=0&rsv_sug3=11&inputT=162&rsv_sug4=163
+1538994050373	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=selenium%20%E7%81%B0%E8%93%9D&rsv_pq=ac9f17f00000f7d8&rsv_t=5da00bbuTR0ADxlWrCeDUp3hmjYBWbMCacaAEq83ShiZU2juPUNiDMcNs8Q&rqlang=cn&rsv_enter=0&rsv_sug3=11&inputT=162&rsv_sug4=163
+1538994051988	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.runoob.com/try/try.php?filename=jqueryui-api-droppable
+JavaScript warning: http://apps.bdimg.com/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-84264393-2, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-84264393-2, line 74: unreachable code after return statement
+1538994053139	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450964
+1538994055367	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.runoob.com/try/try.php?filename=jqueryui-api-droppable
+[Parent 7388, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7388, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9156, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 9156, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8044, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7388, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4244, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4244, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1538994085432	Marionette	INFO	Stopped listening on port 64275
+1538994091076	mozrunner::runner	INFO	Running command: "h:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\000807\\AppData\\Local\\Temp\\rust_mozprofile.axmZfRX1Iaof"
+1538994093854	Marionette	INFO	Listening on port 64394
+1538994093916	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538994093946	Marionette	DEBUG	[6442450945] Frame script loaded
+1538994093947	Marionette	DEBUG	[6442450945] Frame script registered
+1538994093969	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for about:blank
+1538994094415	Marionette	DEBUG	[6442450945] Received DOM event pagehide for about:blank
+1538994094746	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for https://www.baidu.com/
+1538994094966	Marionette	DEBUG	[6442450945] Received DOM event pageshow for https://www.baidu.com/
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=seleniu&json=1&p=3&sid=1459_21111_26350_27244_22158&req=2&csor=7&pwd=seleni&cb=jQuery1102042380346500437804_1538994094666&_=1538994094674, line 1: TypeError: jQuery1102042380346500437804_1538994094666 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=se&json=1&p=3&sid=1459_21111_26350_27244_22158&req=2&csor=2&pwd=s&cb=jQuery1102042380346500437804_1538994094666&_=1538994094669, line 1: TypeError: jQuery1102042380346500437804_1538994094666 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=sele&json=1&p=3&sid=1459_21111_26350_27244_22158&req=2&csor=4&pwd=sel&cb=jQuery1102042380346500437804_1538994094666&_=1538994094671, line 1: TypeError: jQuery1102042380346500437804_1538994094666 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selen&json=1&p=3&sid=1459_21111_26350_27244_22158&req=2&csor=5&pwd=sele&cb=jQuery1102042380346500437804_1538994094666&_=1538994094672, line 1: TypeError: jQuery1102042380346500437804_1538994094666 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selenium&json=1&p=3&sid=1459_21111_26350_27244_22158&req=2&csor=8&pwd=seleniu&cb=jQuery1102042380346500437804_1538994094666&_=1538994094675, line 1: TypeError: jQuery1102042380346500437804_1538994094666 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=sel&json=1&p=3&sid=1459_21111_26350_27244_22158&req=2&csor=3&pwd=se&cb=jQuery1102042380346500437804_1538994094666&_=1538994094670, line 1: TypeError: jQuery1102042380346500437804_1538994094666 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selenium%20&json=1&p=3&sid=1459_21111_26350_27244_22158&req=2&csor=9&pwd=selenium&cb=jQuery1102042380346500437804_1538994094666&_=1538994094676, line 1: TypeError: jQuery1102042380346500437804_1538994094666 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=seleni&json=1&p=3&sid=1459_21111_26350_27244_22158&req=2&csor=6&pwd=selen&cb=jQuery1102042380346500437804_1538994094666&_=1538994094673, line 1: TypeError: jQuery1102042380346500437804_1538994094666 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selenium%20%E7%81%B0%E8%93%9D&json=1&p=3&sid=1459_21111_26350_27244_22158&req=2&csor=11&pwd=selenium%20%E7%81%B0&cb=jQuery1102042380346500437804_1538994094666&_=1538994094678, line 1: TypeError: jQuery1102042380346500437804_1538994094666 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=selenium%20%E7%81%B0&json=1&p=3&sid=1459_21111_26350_27244_22158&req=2&csor=10&pwd=selenium%20&cb=jQuery1102042380346500437804_1538994094666&_=1538994094677, line 1: TypeError: jQuery1102042380346500437804_1538994094666 is not a function
+1538994095372	Marionette	DEBUG	[6442450945] Canceled page load listener because no navigation has been detected
+1538994098504	Marionette	DEBUG	[6442450945] Received DOM event beforeunload for https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=selenium%20%E7%81%B0%E8%93%9D&rsv_pq=fb07808f0000edd1&rsv_t=7b6aDAeO4ZhYS1AAFBkGJPfdif8nLFf9LwqXF9m8pHBc%2B1DUSMAa%2BFBaELk&rqlang=cn&rsv_enter=0&rsv_sug3=11&inputT=177&rsv_sug4=177
+1538994098666	Marionette	DEBUG	[6442450945] Received DOM event pagehide for https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=selenium%20%E7%81%B0%E8%93%9D&rsv_pq=fb07808f0000edd1&rsv_t=7b6aDAeO4ZhYS1AAFBkGJPfdif8nLFf9LwqXF9m8pHBc%2B1DUSMAa%2BFBaELk&rqlang=cn&rsv_enter=0&rsv_sug3=11&inputT=177&rsv_sug4=177
+1538994098668	Marionette	DEBUG	[6442450945] Received DOM event unload for https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=0&rsv_idx=1&tn=baidu&wd=selenium%20%E7%81%B0%E8%93%9D&rsv_pq=fb07808f0000edd1&rsv_t=7b6aDAeO4ZhYS1AAFBkGJPfdif8nLFf9LwqXF9m8pHBc%2B1DUSMAa%2BFBaELk&rqlang=cn&rsv_enter=0&rsv_sug3=11&inputT=177&rsv_sug4=177
+1538994100185	Marionette	DEBUG	[6442450945] Received DOM event DOMContentLoaded for http://www.runoob.com/try/try.php?filename=jqueryui-api-droppable
+JavaScript warning: http://apps.bdimg.com/libs/jquery/1.10.2/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-84264393-2, line 74: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-84264393-2, line 74: unreachable code after return statement
+1538994101465	Marionette	DEBUG	[6442450945] Received observer notification outer-window-destroyed for 6442450964
+1538994103600	Marionette	DEBUG	[6442450945] Received DOM event pageshow for http://www.runoob.com/try/try.php?filename=jqueryui-api-droppable
