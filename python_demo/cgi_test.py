@@ -1,4 +1,5 @@
 import cgi,cgitb
+import http.cookies
 
 # 创建 FieldStorage的实例
 form = cgi.FieldStorage()
