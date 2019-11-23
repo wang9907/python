@@ -18,6 +18,11 @@ column_5= ws.col_values(4);
 Row_4 = ws.row(3); #此方法list中包含单元格类型
 Column_5=ws.col(4); #此方法list包含单元格类型
 
+#从文件读取各种数据集
+citys = [];
+deps = [];
+hosps = [];
+
 #遍历每一行，每一列
 for x in range(ws.nrows):
     city = ws.cell_value(x,0);
